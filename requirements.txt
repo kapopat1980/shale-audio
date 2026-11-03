@@ -1,0 +1,8 @@
+numpy>=2.0
+scipy>=1.13
+numba>=0.60
+soundfile>=0.12
+scikit-learn>=1.5
+matplotlib>=3.8
+cryptography>=42      # AES-GCM / ChaCha20-Poly1305 baselines only
+# torch>=2.3          # only for kaggle/ (deep-learning attack); preinstalled on Kaggle

@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 kapopat1980
+Copyright (c) 2026 Lakhichand Patil and Kalpesh Popat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The Ascon known-answer test files in tests/LWC_*_KAT_*.txt are taken from the
+official Ascon C reference repository (https://github.com/ascon/ascon-c, CC0 1.0).

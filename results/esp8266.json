@@ -1,0 +1,6 @@
+{"board": "NodeMCU 1.0 (ESP-12E), ESP8266 (Tensilica L106)", "cpu_mhz": 160, "free_heap_bytes": 41984, "min_free_heap_bytes": 33312,
+ "clip": "CREMA-D 1001_DFA_ANG_XX.wav, 36409 samples, 2.28 s, 16 kHz mono", "record_samples": 320, "frames": 114,
+ "bit_exact": true, "auth_failures": 0, "encrypt_ms_per_frame": 17.484, "encrypt_cpu_load_pct": 87.6, "encrypt_realtime_x": 1.14,
+ "decrypt_ms_per_frame": 1.481, "decrypt_cpu_load_pct": 7.4, "decrypt_realtime_x": 13.48, "ascon_raw_pcm_ms_per_frame": 0.668,
+ "bytes_shale": 60040, "bytes_pcm_plus_tag": 74642, "ratio": 0.804, "buckets": "ECLQ H<=0.1 (VCTK profile): 492, 644", "runs": 2,
+ "source": "Serial Monitor output recorded on 3 Nov 2026"}
